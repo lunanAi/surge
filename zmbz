@@ -1,0 +1,18 @@
+# NAME: 最美壁纸去广告
+# AUTHOR: xiaoai1
+# REPO: 
+# UPDATED: 2023-07-20 00:45:45
+# DOMAIN: 
+# DOMAIN-KEYWORD: 
+# DOMAIN-SUFFIX: 
+# IP-CIDR: 
+# PROCESS-NAME: 
+# USER-AGENT: 
+# TOTAL: 
+#.最美壁纸去广告
+DOMAIN-SUFFIX,mi.gdt.qq.com,REJECT
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-SUFFIX,9imobi.com,REJECT
+DOMAIN-SUFFIX,p1.meituan.net,REJECT
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
